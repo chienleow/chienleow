@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-- 🔭 I just graduated from [Flatiron School Online Software Engineering Program](https://github.com/flatiron-school)!
+- 🔭 I just graduated from [Flatiron School Online Software Engineering Program](https://flatironschool.com/career-courses/coding-bootcamp/online)!
 - 💻 I am proficient in: HTML, CSS, Ruby, SQL, ORM, Sinatra, Rails, JavaScript, React, Redux, JSON
 - 🌱 I’m currently learning Python
 - 💬 Ask me about my favorite food, secret recipes, transition to tech and must-listen podcasts!
