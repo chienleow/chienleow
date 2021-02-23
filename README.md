@@ -4,6 +4,6 @@ Hey there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 💬 Ask me about my transition to the technology industry and my favorite podcasts!
+- 💬 Ask me about my favorite food, secret recipes, transition to tech and must-listen podcasts!
 - 📫 How to reach me: <a href="mailto:chienleow1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chienleow">LinkedIn</a>
 - ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there is more than 3,000 rivers and 3 million lakes
