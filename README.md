@@ -15,5 +15,12 @@ This is ChiEn, I am a full-stack web developer with experience in Ruby and JavaS
 ### Portfolio
 - 🔖 Covid Volunteer App: Stronger Together - [Walkthrough Video](https://youtu.be/gLPlippJhyA)
   - The app allows local businesses or non-profit organizations to post projects they need volunteers for. Volunteers can view and choose from a list of projects they want to be involved in, all in one place.
+  - Used Sinatra with MVC pattern to make a CMS with full CRUD functionalities
 - 🔖 Gamified Wellness Tracker - [Walkthrough Video](https://youtu.be/uTYCEnw-izk)
   - The app allows users to set their daily goals along with their team members, achieve goals together while earning team points for a friendly competition.
+  - Used Ruby on Rails as framework and PostgreSQL as the database
+- 🔖 Conversation Cards App - [Walkthrough Video](https://youtu.be/wobJ0uPMuHo)
+  - The app allows users to create their very own engaging conversation starter questions.
+  -  Used React, Redux and Bootstrap as styling on the frontend
+  -  Used Rails as an API and PostgreSQL as database on the backend
+
