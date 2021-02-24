@@ -14,13 +14,13 @@ This is ChiEn, I am a full-stack web developer with experience in Ruby and JavaS
 
 ### Portfolio
 - 🔖 **Conversation Cards App** - [Walkthrough Video](https://youtu.be/wobJ0uPMuHo) | [Repository](https://github.com/chienleow/conversation-cards-frontend)
-  - *The app allows users to create their very own engaging conversation starter questions for a fun ice-breaker, game-night or dinner gathering.*
+  - *The app allows users to create their very own engaging conversation starter questions for a fun ice-breaker, game-night or dinner gathering*
   - *React, Redux and Bootstrap as styling on the frontend*
   - *Rails as an API and PostgreSQL as database on the backend*
 - 🔖 **Gamified Wellness Tracker** - [Walkthrough Video](https://youtu.be/uTYCEnw-izk) | [Repository](https://github.com/chienleow/gamified-wellness-tracker)
   - *The app allows remote workers to set their daily wellness goals along with their team members, keep each other accountable during the pandemic, achieve goals together while earning team points for a friendly competition*
   - *Ruby on Rails as framework and PostgreSQL as the database*
 - 🔖 **Play Hangman: Animals Game** - [Walkthrough Video](https://youtu.be/SgeLizxsnA8) | [Repository](https://github.com/chienleow/animal-hangman)
-  - *The app allows local businesses or non-profit organizations to post projects they need volunteers for. Volunteers can view and choose from a list of projects they want to be involved in, all in one place*
-  - *Sinatra with MVC pattern to make a CMS with full CRUD functionalities*
+  - *This app allows users to play the hangman game with common animal names*
+  - *Python Command Line Interface (CLI)*
 
