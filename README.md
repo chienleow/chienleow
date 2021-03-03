@@ -1,5 +1,5 @@
 ![ChiEn's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1619654400&v=beta&t=K8gJHuwVBcUijuNVJUP3Kymvq0i-yojX9osDLedPzys)
-![Visits Badge](https://badges.pufler.dev/visits/chienleow/chienleow) ![Commits Badge](https://badges.pufler.dev/commits/monthly/chienleow)
+![Visits Badge](https://badges.pufler.dev/visits/chienleow/chienleow) ![Commits Badge](https://badges.pufler.dev/commits/yearly/chienleow)
 
 ### Hey there 👋
 
