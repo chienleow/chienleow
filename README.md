@@ -5,7 +5,7 @@
 
 This is ChiEn, I am a full-stack web developer with experience in Ruby and JavaScript frameworks. With an academic background in advertising and past working experience as an e-commerce sales analyst, I bring strong problem-solving skills with creativity to build projects that I am passionate about.
 
-- 🔭 I just graduated from Flatiron School Online Software Engineering Program
+- 🔭 I graduated from Flatiron School Online Software Engineering Program
 - 💻 I am proficient in: **HTML, CSS, Ruby, SQL, ORM, Sinatra, Rails, JavaScript, React, Redux, JSON**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about my favorite food, secret recipes, transition to tech and must-listen podcasts
