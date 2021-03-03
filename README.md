@@ -13,7 +13,7 @@ This is ChiEn, I am a full-stack web developer with experience in Ruby and JavaS
 - ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there is more than 3,000 rivers and 3 million lakes
 
 ### Portfolio
-- 🔖 **Conversation Cards App** - [Demo](https://youtu.be/wobJ0uPMuHo) | [Repository: Frontend,](https://github.com/chienleow/conversation-cards-frontend) [Backend](https://github.com/chienleow/conversation-cards-backend)
+- 🔖 **Conversation Cards App** - [Demo](https://youtu.be/wobJ0uPMuHo) | Repository: [Frontend,](https://github.com/chienleow/conversation-cards-frontend) [Backend](https://github.com/chienleow/conversation-cards-backend)
   - *The app allows users to create their very own engaging conversation starter questions for a fun ice-breaker, game-night or dinner gathering*
   - *React, Redux and Bootstrap as styling on the frontend*
   - *Rails as an API and PostgreSQL as database on the backend*
