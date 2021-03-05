@@ -3,7 +3,7 @@
 
 ### Hey there, this is ChiEn. 👋
 
-- 🔭 Full-Stack Web Developer graduated from Flatiron School Online Software Engineering Program
+- 🔭 I graduated from Flatiron School Online Software Engineering Program
 - 💻 I am proficient in: **HTML, CSS, Ruby, SQL, ORM, Sinatra, Rails, JavaScript, React, Redux, JSON**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
