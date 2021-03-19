@@ -4,7 +4,7 @@
 ### Hey there, this is ChiEn 👋
 
 - 🔭 I graduated from Flatiron School Online Software Engineering Program
-- 💻 I am proficient in: **HTML, CSS, Ruby, SQL, ORM, Sinatra, Rails, JavaScript, React, Redux, JSON**
+- 💻 I am proficient in: **Ruby, Ruby on Rails, JavaScript, React, Redux, Git, SQL, PostgreSQL, HTML, CSS**
 - 🌱 I’m currently learning **Python, WordPress**
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
 - 📫 How to reach me: <a href="mailto:chienleow1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chienleow">LinkedIn</a>
