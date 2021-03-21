@@ -18,7 +18,7 @@
 - 🔖 **Gamified Wellness Tracker** - [Demo](https://youtu.be/uTYCEnw-izk) | [Repository](https://github.com/chienleow/gamified-wellness-tracker)
   - *The app allows remote workers to set their daily wellness goals along with their team members, keep each other accountable during the pandemic, achieve goals together while earning team points for a friendly competition*
   - *Ruby on Rails as framework and PostgreSQL as the database*
-- 🔖 **Play Hangman: Animals Game** - [Demo](https://youtu.be/SgeLizxsnA8) | [Repository](https://github.com/chienleow/animal-hangman)
+- 🔖 **Play Hangman: Animals Game** - [Demo](https://youtu.be/z1iiUGnS19A) | [Repository](https://github.com/chienleow/animal-hangman)
   - *This app allows users to play the hangman game with common animal names*
   - *Python Command Line Interface (CLI)*
 
