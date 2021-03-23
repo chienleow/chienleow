@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Python, WordPress**
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
 - 📫 How to reach me: <a href="mailto:chienleow1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chienleow">LinkedIn</a>
-- ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there is more than 3,000 rivers and 3 million lakes
+- ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there are more than 3,000 rivers and 3 million lakes
 
 ### Portfolio
 - 🔖 **Conversation Cards App** - [Demo](https://youtu.be/wobJ0uPMuHo) | [Frontend Repository](https://github.com/chienleow/conversation-cards-frontend) | [Backend Repository](https://github.com/chienleow/conversation-cards-backend)
