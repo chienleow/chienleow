@@ -22,3 +22,10 @@
   - *This app allows users to play the hangman game with common animal names*
   - *Python Command Line Interface (CLI)*
 
+### Resources (Notes for Flatiron School Software Engineering Program)
+- [Recorded lectures and project builds](https://github.com/chienleow/resources-for-flatiron)
+- Assessment Prep
+* [CLI Assessment Prep](https://github.com/chienleow/cli-assessment-prep)
+* [Sinatra Assessment Prep](https://github.com/chienleow/sinatra-assessment-prep)
+* [Rails Assessment Prep](https://github.com/chienleow/rails-assessment-prep)
+
