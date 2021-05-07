@@ -1,4 +1,4 @@
-![ChiEn's GitHub Banner](https://user-images.githubusercontent.com/38739923/117461567-b9bbc300-af1b-11eb-8d88-2d646f316469.JPG)
+![ChiEn's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1625702400&v=beta&t=Ttp8X1I-p1I2VJuwoqYulAi6d4YcA1DUN7KgeDYM-nw)
 
 ![Visits Badge](https://badges.pufler.dev/visits/chienleow/chienleow) ![Commits Badge](https://badges.pufler.dev/commits/yearly/chienleow)
 
