@@ -6,7 +6,7 @@
 
 - 🔭 I graduated from Flatiron School Online Software Engineering Program
 - 💻 I am proficient in: **Ruby, Ruby on Rails, JavaScript, React, Redux, Git, SQL, PostgreSQL, HTML, CSS**
-- 🌱 I’m currently learning **Python, WordPress**
+- 🌱 I’m currently learning **WordPress**
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
 - 📫 How to reach me: <a href="mailto:chienleow1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chienleow">LinkedIn</a>
 - ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there are more than 3,000 rivers and 3 million lakes
