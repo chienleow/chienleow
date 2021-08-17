@@ -4,7 +4,7 @@
 
 ### Hey there, this is ChiEn 👋
 
-- 🔭 I graduated from Flatiron School Online Software Engineering Program
+- 🔭 I graduated from [Flatiron School](https://flatironschool.com/campus-and-online-coding-bootcamp/) Online Software Engineering Program
 - 💻 I am proficient in: **Ruby, Ruby on Rails, JavaScript, React, Redux, Git, SQL, PostgreSQL, HTML, CSS**
 - 🌱 I’m currently learning **WordPress**
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
