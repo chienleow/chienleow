@@ -18,7 +18,7 @@
   - *The app allows users to create their very own engaging conversation starter questions for a fun ice-breaker, game-night or dinner gathering*
   - *React, Redux and Bootstrap as styling on the frontend*
   - *Rails as an API and PostgreSQL as database on the backend*
-- 🔖 **Gamified Wellness Tracker** - [Demo](https://youtu.be/uTYCEnw-izk) | [Repository](https://github.com/chienleow/gamified-wellness-tracker)
+- 🔖 **Gamified Wellness Tracker** - [Demo](https://youtu.be/uTYCEnw-izk) | [Repository](https://github.com/chienleow/gamified-wellness-tracker) | [Blog](https://chienleow.github.io/keeping_rails_project_on_the_rails)
   - *The app allows remote workers to set their daily wellness goals along with their team members, keep each other accountable during the pandemic, achieve goals together while earning team points for a friendly competition*
   - *Ruby on Rails as framework and PostgreSQL as the database*
 - 🔖 **Play Hangman: Animals Game** - [Demo](https://youtu.be/z1iiUGnS19A) | [Repository](https://github.com/chienleow/animal-hangman)
