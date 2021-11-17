@@ -6,7 +6,7 @@
 
 - 🔭 I graduated from [Flatiron School](https://flatironschool.com/campus-and-online-coding-bootcamp/) Online Software Engineering Program
 - 💻 I am proficient in: **Ruby, Ruby on Rails, JavaScript, React, Redux, Git, SQL, PostgreSQL, HTML, CSS**
-- 🌱 I’m a Front-End Software Engineer at [Postman](https://www.postman.com/) 🚀 [Postman GitHub](https://github.com/postmanlabs)
+- 🌱 I’m a Software Engineer at [Postman](https://www.postman.com/) 🚀 [Postman GitHub](https://github.com/postmanlabs)
   - Join me on this challenge [30 Days of Postman - For Developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview) 👩‍🚀👨‍🚀
   - Keep up with me on my journey [Postman Learning](https://github.com/chienleow/postman-learning)
 - 💬 Ask me about my favorite food, secret recipes, shark tank ideas, transition to tech and must-listen podcasts
