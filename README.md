@@ -1,4 +1,4 @@
-![ChiEn's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1649894400&v=beta&t=lcyDR1PKMcdmhgqP9i-whyTGyJprzwHQy07RbB165Vw)
+![ChiEn's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1657152000&v=beta&t=nBYvEjw1IJTt73frJopUQZDCTErOemsoZZSlWFJf9v4)
 
 ![Visits Badge](https://badges.pufler.dev/visits/chienleow/chienleow)
 
