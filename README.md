@@ -13,7 +13,7 @@
 - 📫 How to reach me: <a href="mailto:chienleow1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chienleow">LinkedIn</a>
 - ⚡ Let's play a fun game: Take a guess where my cover photo was taken? A hint: It is a place where there are more than 3,000 rivers and 3 million lakes
 
-### Portfolio
+<!-- ### Portfolio
 - 🔖 **Conversation Cards App** - [Demo](https://youtu.be/wobJ0uPMuHo) | [Frontend Repository](https://github.com/chienleow/conversation-cards-frontend) | [Backend Repository](https://github.com/chienleow/conversation-cards-backend)
   - *The app allows users to create their very own engaging conversation starter questions for a fun ice-breaker, game-night or dinner gathering*
   - *React, Redux and Bootstrap as styling on the frontend*
@@ -23,7 +23,7 @@
   - *Ruby on Rails as framework and PostgreSQL as the database*
 - 🔖 **Play Hangman: Animals Game** - [Demo](https://youtu.be/z1iiUGnS19A) | [Repository](https://github.com/chienleow/animal-hangman)
   - *This app allows users to play the hangman game with common animal names*
-  - *Python Command Line Interface (CLI)*
+  - *Python Command Line Interface (CLI)* -->
 
 ### Resources (Notes for Flatiron School Software Engineering Program)
 - [Recorded lectures and project builds](https://github.com/chienleow/resources-for-flatiron)
