@@ -1,4 +1,4 @@
-![ChiEn's GitHub Banner](https://media-exp2.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1662595200&v=beta&t=qKk-X48VFjmdyXFi9qGautEECNDImCQ3N5yB7OiDz_I)
+![ChiEn's GitHub Banner](https://media-exp1.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1669248000&v=beta&t=ZebIaIwAmfISj3Ud2Bn_mCLBzH-LcJYrpNMxmzRKJGo)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chienleow)
 
